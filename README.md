@@ -1,16 +1,16 @@
-## Authentication Service (FastAPI)
+"""## Authentication Service (FastAPI)
 
-## A production ready authentication and user management service buit with FastAPI and postgreSQL.
+ A production ready authentication and user management service buit with FastAPI and postgreSQL.
 
-## features
+ features
 - User Registration & login/logout
 - jwt-based authentication
 - Role-based  access control
 
 
 
-## Tech Stack
+Tech Stack
  - FastAPI
 - postgreSQL
 - Jwt
-- SQLAlchemy
+- SQLAlchemy""
